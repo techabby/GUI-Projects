@@ -330,4 +330,6 @@ b = Button(
 b.pack(side=LEFT, pady=20, padx=30)
 b.bind("<Button-1>", click)
 
+
 root.mainloop()
+
